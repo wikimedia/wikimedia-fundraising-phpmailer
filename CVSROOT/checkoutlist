@@ -11,3 +11,7 @@
 #	[<whitespace>]<filename><whitespace><error message><end-of-line>
 #
 # comment lines begin with '#'
+
+# http://sourceforge.net/projects/cvs-syncmail
+syncmail
+
